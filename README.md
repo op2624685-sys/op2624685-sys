@@ -1,6 +1,9 @@
 # 💫 About Me:
-I'm currently a student,<br>i'm very interested in java programing language , <br>I love working in backend using java ,<br>Interested to working in japanese company
+I’m a Java developer. Java fits my mindset—structured, disciplined, and built for designing reliable systems.
 
+It has become my primary tool because it emphasizes scalability, clean architecture, and long-term stability. I enjoy building backend systems, optimizing performance, and solving problems that go beyond basic functionality.
+
+I’m not interested in temporary solutions—I focus on building code and systems that remain reliable under real-world conditions.
 
 ## 🌐 Socials:
 --->  https://op2624685-sys.github.io/My-Portfolio/  [My Portfolio]
