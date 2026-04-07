@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m a Java developer. Java fits my mindset—structured, disciplined, and built for designing reliable systems.
 
-It has become my primary tool because it emphasizes scalability, clean architecture, and long-term stability. I enjoy building backend systems, optimizing performance, and solving problems that go beyond basic functionality.
+It has become my primary tool because it emphasizes scalability, clean (MCRS) backend architecture, and long-term stability. I enjoy building backend systems, optimizing performance, and solving problems that go beyond basic functionality.
 
 I focus on building code and systems that remain reliable under real-world conditions.
 
